@@ -1,0 +1,26 @@
+{
+  "name": "slotegrator",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "build:dev": "gulp build:dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.57.1",
+    "uninstall": "^0.0.0",
+    "webpack-stream": "^7.0.0"
+  },
+  "dependencies": {
+    "gulp-file-include": "^2.3.0"
+  }
+}
